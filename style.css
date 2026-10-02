@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: hsl(0, 0%, 95%);
+  margin: 0;
+}
+
+/*                                          */
+
+main {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
